@@ -1,0 +1,54 @@
+<h1>MYLOGO.COM</h1>
+
+    <hr>
+    
+    <h2>PORTFOLIO</h2>
+    <p>Hello, I’m makao!
+        Junior Ux/Ui Designer who is eager to explore opportunities within Design,Visual Design and product design realm. Been working for the past 9 months on understanding the Ux world and how to implementate its many teachings into my design process.
+        .</p>
+        <button type="button">Download Resume!</button>
+
+    <div class="row">
+      <div> class="style"
+
+      </nav>
+      </style></div>
+      <div class="column">
+        <div class="content">
+          <img src="C:\Users\ko's pc\Desktop\Homework 17\me.jpg" alt="my photo" style="width:100%">
+          <h3>My Work</h3>
+          <p>Lorem ipsum..</p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="content">
+          <img src="Earthnetic.jpg" alt="Earth"style="width:100%">
+          <h3>My Work</h3>
+          <p>Lorem ipsum..</p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="content">
+          <img src="good Neighor center.jpg" alt="GNC"style="width:100%">
+          <h3>My Work</h3>
+          <p>Lorem ipsum..</p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="content">
+          <img src="Travel Helpi" alt="Travel"style="">
+          <h3>My Work</h3>
+          <p>Lorem ipsum..</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="content">
+      <img src="">
+      <h3>Other Work</h3>
+      <p></p>
+    </div>
+    
+ </div>
+ </body>
+    </html>
